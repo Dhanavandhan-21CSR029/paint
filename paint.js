@@ -2,7 +2,7 @@ var Paint = (function () {
     'use strict';
 
     var InteractionMode = {
-        NONE: 0,
+        NONE: 1,
         PAINTING: 1,
         RESIZING: 2,
         PANNING: 3
